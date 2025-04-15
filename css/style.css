@@ -53,8 +53,9 @@
 }
 
 .before-after-box .middle img {
-    width: 375px;
+    width: 454px;
     height: 331px;
+    object-fit: cover;
 }
 
 .before-after-box .bottom h4 {
